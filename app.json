@@ -7,7 +7,7 @@
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {A-S-W-I-N-S-P-A-R-K-Y:4db5add6662281ace29788ba40c681e2
+    "SESSION_ID": {
       "description": "A-S-W-I-N-S-P-A-R-K-Y:4db5add6662281ace29788ba40c681e2",
       "required": true
     },
