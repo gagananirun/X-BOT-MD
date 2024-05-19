@@ -7,8 +7,8 @@
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD",
   "stack": "container",
   "env": {
-    "SESSION_ID": {
-      "description": "Enter Your Session ID",
+    "SESSION_ID": {A-S-W-I-N-S-P-A-R-K-Y:4db5add6662281ace29788ba40c681e2
+      "description": "A-S-W-I-N-S-P-A-R-K-Y:4db5add6662281ace29788ba40c681e2",
       "required": true
     },
     "HANDLER": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "917012984396"
+      "value": "94729493354"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
@@ -27,18 +27,18 @@
       "value": "X BOT MD;ASWIN SPARKY"
     },
     "AUDIO_DATA": {
-      "description": "Enter Your Owner Name",
-      "required": false,
+      "description": "gagana",
+      "required": true,
       "value": "X BOT MD;ASWIN SPARKY;https://i.imgur.com/fVCRCYG.jpeg"
     },
     "BOT_INFO": {
-      "description": "Enter Your Owner Number",
-      "required": false,
+      "description": "94729493354",
+      "required": true,
       "value": "X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/r3GZeiX.jpeg"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter Your Bot Name",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     "WORK_TYPE": {
@@ -48,8 +48,8 @@
     },
     "AUTO_STATUS_VIEW": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }
   },
   "addons": [
