@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "A-S-W-I-N-S-P-A-R-K-Y:a0795d73e9d1a0222205428d64bca99d",
+      "description": "A-S-W-I-N-S-P-A-R-K-Y:516d85635f383457381f513591d0b6de",
       "required": true
     },
     "HANDLER": {
@@ -19,7 +19,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "94729493354"
+      "value": "94772476404"
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
@@ -32,7 +32,7 @@
       "value": "X BOT MD;ASWIN SPARKY;https://i.imgur.com/fVCRCYG.jpeg"
     },
     "BOT_INFO": {
-      "description": "94729493354",
+      "description": "94772476404",
       "required": true,
       "value": "X-BOT-MD;ASWIN SPARKY;https://i.imgur.com/r3GZeiX.jpeg"
     },
